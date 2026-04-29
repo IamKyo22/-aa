@@ -1,0 +1,15 @@
+{
+  "name": "poketwo-autocatcher-2026",
+  "version": "1.4.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.4.4",
+    "express": "^4.22.1",
+    "ocr-space-api-wrapper": "^2.4.2",
+    "pokehint": "^1.4.24",
+    "dotenv": "^16.4.5"
+  }
+}
